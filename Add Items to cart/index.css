@@ -1,0 +1,22 @@
+.bag{
+  background-color: lightgreen;
+  border-radius: 10px;
+  border: none;
+  padding: 10px 15px;
+}
+.wishlist{
+  background-color: grey;
+  border-radius: 6px;
+  border: none;
+  padding: 10px 35px;
+  text-transform: uppercase;
+}
+#para{
+  font-size: 40px;
+}
+.add{
+  background-color: lightgreen;
+  border-radius: 10px;
+  border: none;
+  padding: 10px 15px;
+}
